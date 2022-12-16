@@ -5,6 +5,7 @@ def main():
     print(1)
     print('привет')
     print(888)
+    print(999)
 
 if __name__ == '__main__':
     main()
